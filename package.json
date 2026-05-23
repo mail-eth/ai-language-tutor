@@ -1,0 +1,16 @@
+{
+  "name": "ai-language-tutor",
+  "version": "1.0.0",
+  "description": "Interactive language learning platform using Xiaomi MiMo for conversation practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "xiaomi",
+    "mimo"
+  ],
+  "author": "mail-eth",
+  "license": "MIT"
+}
