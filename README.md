@@ -7,7 +7,6 @@ Interactive language learning platform using Xiaomi MiMo for conversation practi
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 500K tokens/day
 
 ## 🚀 Quick Start
 
